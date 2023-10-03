@@ -10,12 +10,12 @@ html, body{
 }
 
 body{
-    background: url('../imagens/fundomadeira.jpg') no-repeat top center;
+    background: url('../imagens/fundomadeira.jpg')  top center;
     margin: 0;
-    background-size: cover;
+    background-size: auto;
     background-attachment: fixed;
-    height: 97vh;
-    width: 98vw;
+    height: 100vh;
+    width: 100vw;
     overflow:clip;
 }
 
