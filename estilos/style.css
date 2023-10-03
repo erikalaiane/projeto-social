@@ -14,14 +14,14 @@ body{
     margin: 0;
     background-size: auto;
     background-attachment: fixed;
-    height: 100vh;
+    height: 99vh;
     width: 100vw;
     overflow:clip;
 }
 
 main{
     position: relative;
-    height: 100vh;
+    height: 98vh;
 }
 
 section#telefone{
@@ -50,8 +50,8 @@ section#redes-sociais{
 }
 
 section#redes-sociais img{
-    width: 50px;
-    margin: 10px;
+    width: 40px;
+    margin: 9px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
     box-sizing: border-box;
