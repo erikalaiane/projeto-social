@@ -31,15 +31,15 @@ section#telefone{
     transform: translate(-50%, -50%);
     height: 670px;
     width: 335px;
-    background: url('../imagens/iphone.frame3.png') no-repeat;
+    background: url('../imagens/iphone.frame4.png') no-repeat;
 }
 
 iframe#tela{
     position: relative;
     top: 14px;
     left: 19px;
-    width: 299px;
-    height: 635px;
+    width: 280px;
+    height: 599px;
     border-radius: 30px;
     background-size: cover;
 }
